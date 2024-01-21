@@ -1,0 +1,17 @@
+{
+  "name": "fastify",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.25.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "vitest": "^1.2.1"
+  }
+}
