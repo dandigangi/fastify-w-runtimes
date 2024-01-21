@@ -1,5 +1,5 @@
 {
-  "name": "fastify",
+  "name": "fastify-w-runtimes",
   "type": "module",
   "scripts": {
     "start": "nodemon server.js",
