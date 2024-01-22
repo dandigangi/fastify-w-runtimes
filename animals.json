@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a1b2#3cD4e5F6",
+    "name": "Lion",
+    "species": "Panthera leo",
+    "habitat": "Grasslands and Savannas",
+    "diet": "Carnivore",
+    "average_lifespan": 20,
+    "population": "Vulnerable"
+  },
+  {
+    "id": "gH8i9$Jk0lMn",
+    "name": "Elephant",
+    "species": "Loxodonta africana",
+    "habitat": "Forests and Grasslands",
+    "diet": "Herbivore",
+    "average_lifespan": 60,
+    "population": "Vulnerable"
+  },
+  {
+    "id": "o1P2q#3rS4t5",
+    "name": "Dolphin",
+    "species": "Tursiops truncatus",
+    "habitat": "Oceans and Seas",
+    "diet": "Carnivore",
+    "average_lifespan": 25,
+    "population": "Least Concern"
+  },
+  {
+    "id": "uV8w9Xy0Z1#2",
+    "name": "Panda",
+    "species": "Ailuropoda melanoleuca",
+    "habitat": "Bamboo Forests",
+    "diet": "Herbivore",
+    "average_lifespan": 20,
+    "population": "Vulnerable"
+  },
+  {
+    "id": "3aBc4d#5EfG6",
+    "name": "Giraffe",
+    "species": "Giraffa camelopardalis",
+    "habitat": "Savannas and Grasslands",
+    "diet": "Herbivore",
+    "average_lifespan": 25,
+    "population": "Least Concern"
+  }
+]
