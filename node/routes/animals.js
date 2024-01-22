@@ -29,6 +29,10 @@ async function animalsRoutes(fastify, option) {
     return data
   })
 
+  // post request w/ schema validation (uses JSON schema), takes in opts
+  // const animalBodySchema = {}
+  // fastify.post('/animals', { schema: animalBodySchema }, (req, rep)) => {})
+
   // dynamic routes generated from collection names
   tempCollectionNames.forEach((name) => {
     fastify.get(`/animals/${name}/:id?`, async (req, rep) => {
